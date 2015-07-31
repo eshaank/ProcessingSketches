@@ -7,6 +7,7 @@ void setup()
 
 
 void draw()
+{
   for(int i = 0; i < 500; i = i+10){
  
 if(i%20==0){
