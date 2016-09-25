@@ -31,7 +31,7 @@ void keyPressed()
   if(key == CODED){
       if(keyCode == UP)
       {
-       frogY-=20;
+       frogY-=21;
       }
       else if(keyCode == DOWN)
       {
